@@ -1,6 +1,6 @@
 Practice project on building google's home page and search results.
 
-Stuff i should be comfortable know by the end of this project:
+Stuff i should be comfortable with by the end of this project:
 
     Two ways to move a div around on the page
     Stick a div onto the bottom or top of the page
