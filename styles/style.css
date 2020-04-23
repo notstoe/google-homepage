@@ -129,14 +129,24 @@ div.buttons {
 
 ul {
     list-style-type: none;
+}
+
+.flex-container-footer {
+    display: flex;
     padding: 11px;
     margin: 0;
     background-color: #ebecec8f;
     border: 1px solid #bfc5c882;
-    width: 100%;
     bottom: 0;
     position: fixed;
     left: 0px;
+    right: 0px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#blank{
+    flex: 1.5 0;
 }
 
 li {
@@ -154,9 +164,6 @@ li {
     margin: 10px;
 }
 
-#priv{
-    margin-left: 830px;
-}
 
 #about:hover, #store:hover, #gmail:hover, #images:hover, #apps:hover, #sign:hover, #ad:hover, #bus:hover, #how:hover, #priv:hover, #terms:hover, #set:hover{
     text-decoration: underline;
