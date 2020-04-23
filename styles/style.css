@@ -95,3 +95,23 @@ div.googlesearch{
 
 }
 
+div.buttons {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#button1, #button2{
+    background-color: #f4f1f1;
+    border: 0px;
+    color: #5e5252;
+    border-radius: 4px;
+    padding: 8px 12px 8px 12px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+#button1:hover, #button2:hover{
+    border: 1px solid #a6a4a4;
+}
+
