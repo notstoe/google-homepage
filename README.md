@@ -2,7 +2,7 @@
 # google-homepage
 [Odin] HTML and CSS Learning: Replication of the design for the Google Homepage
 
-> See it live on [notstoe.github.io/google-homepage](https://pklepa.github.io/google-homepage/)
+> See it live on [notstoe.github.io/google-homepage](https://notstoe.github.io/google-homepage/)
 
 # objectives
 The main objective of this project is to familiarize and apply the following:
