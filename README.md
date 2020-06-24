@@ -1,12 +1,14 @@
-Practice project on building google's home page and search results.
 
-Stuff i should be comfortable with by the end of this project:
+# google-homepage
+[Odin] HTML and CSS Learning: Replication of the design for the Google Homepage
 
-    Two ways to move a div around on the page
-    Stick a div onto the bottom or top of the page
-    Identify the background color of an existing webpage
-    Grab the URL for an image from an existing webpage
-    Center an element horizontally
-    Identify three ways you can include your CSS styles in a page
-    Understand how to use classes and ids to target CSS at specific elements on the page
-    Build a very basic form (even if it doesn’t “go” anywhere)
+> See it live on [notstoe.github.io/google-homepage](https://pklepa.github.io/google-homepage/)
+
+# objectives
+The main objective of this project is to familiarize and apply the following:
+- First usage of HTML and CSS
+- Basic implementation web-page styling
+- Initial understanding and use of the browser (Mozilla) Developer Tools
+
+# more information
+[The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)
